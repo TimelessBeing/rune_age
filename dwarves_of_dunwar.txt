@@ -9,6 +9,7 @@ Forge Master (Strength: 1)
 Sentinel (Strength: 2)
     When played: Dicard 1 Gold card from your hand to destroy an opposing unit (there must be an opposing unit to trigger this ability.)
 
+
 3 Gold Units:
 
 Guardian (Strength: 3)
@@ -16,6 +17,7 @@ Guardian (Strength: 3)
 
 Demolitionist (Strength: 3)
     When played: Look at any other player's hand. You may take 1 Gold card of value 2 or less from his hand and add it to your hand or discard pile.
+
 
 5 Gold Unit:
 

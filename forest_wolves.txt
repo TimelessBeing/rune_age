@@ -10,6 +10,7 @@ Wolf Cub (Strength: 1)
 Young Wolf (Strength: 2)
     When played: Destroy a friendly unit to destroy an opposing unit.
 
+
 3 Gold Units:
 
 Mother Wolf (Strength: 3)
@@ -17,6 +18,7 @@ Mother Wolf (Strength: 3)
 
 Wolf Veteran (Strength: 3)
     When played: Destry a friendly unit to draw 1 card.
+
 
 5 Gold Unit:
 

@@ -9,6 +9,7 @@ Ravager (Strength: 1)
 Beast Master (Strength: 2)
     When played: Destroy 1 card from your hand to make your opponent discard 1 card at random. (There must be an opponent in combat to trigger this ability.)
 
+
 3 Gold Units:
 
 Spirit Speaker (Strength: 3)
@@ -16,6 +17,7 @@ Spirit Speaker (Strength: 3)
 
 Lizard Rider (Strength: 3)
     Resolution: If you have 0 cards in your hand, destroy any number of opposing units whose combined strength is 2 or less.
+
 
 5 Gold Unit:
 

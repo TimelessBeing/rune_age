@@ -9,6 +9,7 @@ Footman (Strength: 1)
 Bowman (Strength: 2)
     When played: Discard 1 card from your hand to destroy 1 opposing unit. (There must be an opposing unit to trigger this ability.)
 
+
 3 Gold Units:
 
 Knight (Strength: 3)
@@ -16,6 +17,7 @@ Knight (Strength: 3)
 
 Novice Wizard (Strength: 2)
     When played: Discard 1 card from your hand to draw 1 card.
+
 
 5 Gold Unit:
 

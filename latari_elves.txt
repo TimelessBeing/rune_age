@@ -9,6 +9,7 @@ Deepwood Archer (Strength: 1)
 Storm Sorceress (Strength: 2)
     Action: Claim this card as a reward. (Exhaust this card to generate 2 influence.) Discard this card at the end of the turn.
 
+
 3 Gold Units:
 
 Darnati Warrior (Strength: 3)
