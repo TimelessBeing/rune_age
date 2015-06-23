@@ -1,0 +1,30 @@
+1 Gold Unit:
+
+Ravager (Strength: 1)
+    Resolution: If you have 0 cards in your hand, add 1 strength to this unit.
+
+
+2 Gold Unit:
+
+Beast Master (Strength: 2)
+    When played: Destroy 1 card from your hand to make your opponent discard 1 card at random. (There must be an opponent in combat to trigger this ability.)
+
+3 Gold Units:
+
+Spirit Speaker (Strength: 3)
+    When played: If you have 0 cards in your hand, reveal the top 2 cards of your deck. Draw 1 revealed unit into your hand and discard the remaining card(s).
+
+Lizard Rider (Strength: 3)
+    Resolution: If you have 0 cards in your hand, destroy any number of opposing units whose combined strength is 2 or less.
+
+5 Gold Unit:
+
+Warchief (Strength: 4)
+    When played: Immediately purchase 1 unit from your barracks (using only Gold cards). Add that unit to your hand.
+
+
+6 Gold Legendary Unit:
+
+Giant Troll (Strength: 6)
+    When played: Destroy 1 other friendly unit to destroy 1 opposing unit.
+

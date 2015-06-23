@@ -1,0 +1,30 @@
+1 Gold Unit:
+
+Forge Master (Strength: 1)
+    When played: Reveal the top 2 cards of your deck. Draw 1 revealed Gold card into your hand and discard the remaining card(s).
+
+
+2 Gold Unit:
+
+Sentinel (Strength: 2)
+    When played: Dicard 1 Gold card from your hand to destroy an opposing unit (there must be an opposing unit to trigger this ability.)
+
+3 Gold Units:
+
+Guardian (Strength: 3)
+    If an unwounded friendly unit would be destroyed in this combat, you may wound it instead.
+
+Demolitionist (Strength: 3)
+    When played: Look at any other player's hand. You may take 1 Gold card of value 2 or less from his hand and add it to your hand or discard pile.
+
+5 Gold Unit:
+
+Digging Machine (Strength: 4)
+    Resolution: Discard up to 2 Gold cards from your hand to add their values to this unit's strength.
+
+
+6 Gold Legendary Unit:
+
+War Machine (Strength: 5)
+    Resolution: Destroy 1 Gold card in your discard pile to add 1 strength to each other friendly unit.
+

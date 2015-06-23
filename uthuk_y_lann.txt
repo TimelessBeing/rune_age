@@ -10,13 +10,23 @@ Flesh Ripper (Strength: 2)
     When played: Wound 1 friendly unit to draw 1 card. ("Flesh Ripper" can wound itself.)
 
 
-3 Gold Unit:
+3 Gold Units:
 
 Warlock Chieftain (Strength: 3)
     End of Combat: Place 1 friendly unit, including this card, on top of your deck (instead of discarding or destroying it).
+
+Blood Sister (Strength: 3)
+    When played: Wound 1 participating unit (friendly or opposing). If "Blood Sister" wounds itself, place 1 "Berserker" from your barracks directly into this combat.
 
 
 5 Gold Unit:
 
 Chaos Lord (Strength: 4)
     When played: Destroy or wound 1 participating unit (friendly or opposing).
+
+
+6 Gold Legendary Unit:
+
+Obscene (Strength: 4)
+    Resolution: Discard 1 wounded participating unit (friendly or opposing) from this combat to add 4 strength to this "Obscene" 
+

@@ -9,13 +9,24 @@ Deepwood Archer (Strength: 1)
 Storm Sorceress (Strength: 2)
     Action: Claim this card as a reward. (Exhaust this card to generate 2 influence.) Discard this card at the end of the turn.
 
-3 Gold Unit:
+3 Gold Units:
 
 Darnati Warrior (Strength: 3)
     When played: Spend 1 influence to destroy 1 opposing unit.
+
+Leonx Rider (Strength: 3)
+    When played: Spend 1 influence to choose any player. The player chooses and discards 1 card from his hand. If you choose yourself, you may draw 1 card before discarding.
 
 
 5 Gold Unit:
 
 Pegasus Rider (Strength: 4)
     When played: Spend 2 influence to reveal the top 2 cards of your deck. Draw 1 into your hand and discard the other.
+
+
+6 Gold Legendary Unit:
+
+Forest Guardian (Strength: 4)
+    This unit cannot be wounded or destroyed in combat.
+    The abilities of friendly units in this combat cost 1 less influence to use.
+

@@ -9,13 +9,23 @@ Reanimate (Strength: 1)
 Skeleton Archer (Strength: 2)
     When played: Destroy 1 opposing unit whose strength is equal to or less than the total strength of all "Skeleton Archer" cards participating in this combat.
 
-3 Gold Unit:
+3 Gold Units:
 
 Necromancer (Strength: 3)
     When played: Reveal the top 2 cards of your deck. Draw 1 "Reanimate" or "Skeleton Archer" revealed in this way into your hand and discard the remaining card(s).
+
+Vampire (Strength: 3)
+    When played: Reveal up to 4 cards from the top of your deck. Discard any number of those cards and return the rest to the top of your deck in any order.
 
 
 5 Gold Unit:
 
 Dark Knight (Strength: 3)
     Resolution: For each other friendly unit participating in this combat, add 1 strength to this unit.
+
+
+6 Gold Legendary Unit:
+
+Barrow Wyrm (Strength: 4)
+    When played: Choose 1 unit card in your discard pile and add it to your hand.
+
