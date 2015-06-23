@@ -1,0 +1,31 @@
+1 Gold Unit:
+
+Wolf Cub (Strength: 1)
+    When all resolution abilities have been played, discard this unit.
+    When played: Destroy this card and a friendly unit to add a "Young Wolf" card from your barracks to this combat. (Do not trigger that "Young Wolf" card's ability.)
+
+
+2 Gold Unit:
+
+Young Wolf (Strength: 2)
+    When played: Destroy a friendly unit to destroy an opposing unit.
+
+3 Gold Units:
+
+Mother Wolf (Strength: 3)
+    When played: Add six "Wolf Cub" cards from your barracks to this combat. (Do not trigger those "Wolf Cub" cards'abilities.)
+
+Wolf Veteran (Strength: 3)
+    When played: Destry a friendly unit to draw 1 card.
+
+5 Gold Unit:
+
+Pack Leader (Strength: 4)
+    When played: Return participating friendly units to your barracks for a total cost of 1 or 2 to add a unit of cost 2 or 3 respectively to your hand from your barracks.
+
+
+6 Gold Legendary Unit:
+
+Silver Wolf (Strength: 5)
+    Resolution: Destroy up to 5 friendly units. For each unit destroyed in this way, add 1 strength to this unit.
+
