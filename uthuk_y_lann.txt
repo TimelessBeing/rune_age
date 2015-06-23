@@ -1,0 +1,22 @@
+1 Gold Unit:
+
+Berserker (Strength: 1)
+    Resolution: If wounded, add 2 strength to this unit.
+
+
+2 Gold Unit:
+
+Flesh Ripper (Strength: 2)
+    When played: Wound 1 friendly unit to draw 1 card. ("Flesh Ripper" can wound itself.)
+
+
+3 Gold Unit:
+
+Warlock Chieftain (Strength: 3)
+    End of Combat: Place 1 friendly unit, including this card, on top of your deck (instead of discarding or destroying it).
+
+
+5 Gold Unit:
+
+Chaos Lord (Strength: 4)
+    When played: Destroy or wound 1 participating unit (friendly or opposing).

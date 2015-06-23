@@ -1,0 +1,21 @@
+1 Gold Unit:
+
+Footman (Strength: 1)
+    When played: Reveal the top card of your deck. If it is a "Footman", draw it into your hand. Otherwise, discard it or place it on top of your deck.
+
+
+2 Gold Unit:
+
+Bowman (Strength: 2)
+    When played: Discard 1 card from your hand to destroy 1 opposing unit. (There must be an opposing unit to trigger this ability.)
+
+3 Gold Unit:
+
+Knight (Strength: 3)
+    When played: Reveal the top card of your deck. If it is a unit with strength 3 or higher, discard it. Otherwise draw it into your hand.
+
+
+5 Gold Unit:
+
+Siege Machine (Strength: 4)
+    Resolution: Discard 1 card from your hand to add 2 strength to this unit.

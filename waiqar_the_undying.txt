@@ -1,0 +1,21 @@
+1 Gold Unit:
+
+Reanimate (Strength: 1)
+    When played: Take 1 "Reanimate" card from your discard pile and add it to this combat. (Do not trigger that "Reanimate" card's ability)
+
+
+2 Gold Unit:
+
+Skeleton Archer (Strength: 2)
+    When played: Destroy 1 opposing unit whose strength is equal to or less than the total strength of all "Skeleton Archer" cards participating in this combat.
+
+3 Gold Unit:
+
+Necromancer (Strength: 3)
+    When played: Reveal the top 2 cards of your deck. Draw 1 "Reanimate" or "Skeleton Archer" revealed in this way into your hand and discard the remaining card(s).
+
+
+5 Gold Unit:
+
+Dark Knight (Strength: 3)
+    Resolution: For each other friendly unit participating in this combat, add 1 strength to this unit.

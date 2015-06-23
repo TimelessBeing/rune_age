@@ -1,0 +1,21 @@
+1 Gold Unit:
+
+Deepwood Archer (Strength: 1)
+    When played: Refresh 1 of your cities or strongholds.
+
+
+2 Gold Unit:
+
+Storm Sorceress (Strength: 2)
+    Action: Claim this card as a reward. (Exhaust this card to generate 2 influence.) Discard this card at the end of the turn.
+
+3 Gold Unit:
+
+Darnati Warrior (Strength: 3)
+    When played: Spend 1 influence to destroy 1 opposing unit.
+
+
+5 Gold Unit:
+
+Pegasus Rider (Strength: 4)
+    When played: Spend 2 influence to reveal the top 2 cards of your deck. Draw 1 into your hand and discard the other.
