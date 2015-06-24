@@ -21,8 +21,8 @@ Novice Wizard (Strength: 2)
 
 5 Gold Unit:
 
-Siege Machine (Strength: 4)
-    Resolution: Discard 1 card from your hand to add 2 strength to this unit.
+Siege Machine (Strength: 2)
+    Resolution: Discard 1 card from your hand to add 4 strength to this unit.
 
 
 6 Gold Legendary Unit:
