@@ -1,0 +1,31 @@
+1 Gold Unit:
+
+Fairy (Strength: 1)
+   Resolution : Add 1 strength to this unit for each resolution effect you have already used. You may wound this unit.
+
+2 Gold Unit:
+
+Pheonix (Strength: 2)
+   When played : Directly add a faerix from your barracks to pour hand
+
+
+3 Gold Units:
+
+Cupid (Strength: 3)
+    When played : If the opponent has 1 card or less in his hand, reveal as many cards as engaged faerix in the fight. Take all faerixes in you hand and discard the others
+
+Nephilim (Strength: 3)
+   Resolution : Wound all Faerixes to destroy an ennemy unit.
+
+
+5 Gold Unit:
+
+Griffin (Strength: 4)
+    When played : Your opponent plays 2 units, then you play 2 units. Each time, only the second unit can activate his 'when played' ability.
+
+
+6 Gold Legendary Unit:
+
+Archangel (Strength: 5)
+    When played : Choose a number. Each player can discard up to that many card ans draw as many cards as discarded
+
