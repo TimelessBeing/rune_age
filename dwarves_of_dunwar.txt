@@ -7,7 +7,7 @@ Forge Master (Strength: 1)
 2 Gold Unit:
 
 Sentinel (Strength: 2)
-    When played: Dicard 1 Gold card from your hand to destroy an opposing unit (there must be an opposing unit to trigger this ability.)
+    When played: Discard at least one Gold cards from your hand to destroy an opposing unit or draw 1 card. If the total value of the discarded cards is more than 1, you may do both.
 
 
 3 Gold Units:
