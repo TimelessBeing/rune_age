@@ -1,0 +1,59 @@
+Dernière version : v0.1.1 (24/06/15) par cookie
+
+==Changelog==
+
+v0.1.0 (22/06/15)
+- Première version publique
+
+v0.1.1 (24/06/15)
+ Merci pour les premiers avis. Ces premières retouches sont destinées principalement à accentuer les forces et faiblesses originalement voulues des races, et commencer à retravailler en profondeur celles qui ont été le moins appréciées. D'autres changements suivront selon les résultats de cette première màj.
+- Atlantes
+ Avec 3 unités (Espadon, Sirène, Triton) centrales au PvP mais inutiles au PvE, la balance actuelle des Atlantes est très bancale. Sans être une réponse complète et parfaite, ces quelques changements devraient rééquilibrer la chose et ouvrir plus de possibilités défensives à la race. D'autres modifications sont en travail pour accentuer l'image d'une race de défense et de stabilité, mais pas passive pour garder des choix intéressants et de réelles possibilités de counter. Je resterais vigilant sur les interactions entre unités, notamment pour l'unité mythique.
+  * Espadon : force 1 -> force 0
+  * Espadon : protège si en combat -> protège si non blessé
+  * Espadon : nouveau -> si non blessé et visé par une destruction, est blessé à la place
+  * Espadon : nouveau -> si blessé, force +2 à la résolution
+  * Triton : nouveau -> possibilité de défausser une carte à la fin du combat pour récupérer cette unité
+  * Sage tricentenaire : force 5 -> force 4
+
+==============
+
+Rappel : Pour l'instant, le seul truc vraiment travaillé, c'est les mécaniques des unités. Les nombres et les noms sont appelés à beaucoup changer (les premiers parce que pour l'instant tout est pété, et les seconds parce que des  robots dans de la fantasy, ça passe moyen, mais j'avais que ça en tête la première fois donc merde). C'est surtout pour donner une idée des interactions possibles et pour voir si tout est compréhensible sans explications supplémentaires. Débizous.
+
+La syntaxe utilisée pour présenter les unités est :
+
+Nom (Force/Coût/Nombre)
+Effet
+
+
+==Robots==
+
+==Atlantes==
+
+Crabe (1/1/8)
+Quand joué :
+Défaussez une unité alliée autre que celle-ci pour piocher une carte.
+
+Espadon (0/2/4)
+Permanent :
+Tant que vous avez au moins un Espadon non blessé en combat, vos unités autres que celles nommées Espadon ne peuvent pas être détruites par votre adversaire ou des suites d'une blessure. Si cette unité devait être détruite au combat alors qu'elle n'est pas blessée, blessez-la à la place.
+Résolution :
+Si cette unité est blessée, ajoutez 2 à votre force de combat.
+
+Sirène (2/3/4)
+Permanent :
+Tant que cette unité est en combat et non blessée, si une autre de vos unités est défaussée, blessée ou détruite en combat, vous pouvez ensuite appliquer le même effet à une unité adverse de force inférieure ou égale à votre unité affectée. Si vous le faîtes, blessez ensuite cette unité.
+
+Triton (3/3/4)
+Permanent :
+Tant que cette unité est en combat, toutes vos autres unités ont une force de combat augmentée de 1. Ce bonus dure jusqu'à la résolution (exclue) et ne compte pas dans le calcul final des forces de combat.
+Fin de combat :
+Défaussez une carte de votre main pour retourner cette unité dans votre main.
+
+Garde pétrifié (5/5/3)
+Action :
+Obtenez cette carte en tant que Récompense avec le texte suivant : "Vous pouvez défausser cette carte à la résolution d'un combat pour ajouter 3 à votre force de combat. Vous ne pouvez utiliser qu'un seul effet de Garde pétrifié par combat.".
+
+Sage tricentenaire (4/6/2)
+Quand joué :
+Détruisez une unité alliée en combat puis obtenez de vos baraquements une unité de coût inférieur ou égal à la force de l'unité détruite que vous ajoutez à votre main.

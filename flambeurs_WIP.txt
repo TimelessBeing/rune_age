@@ -1,0 +1,56 @@
+Dernière version : v0.1.1 (24/06/15) par cookie
+
+==Changelog==
+
+v0.1.0 (22/06/15)
+- Première version publique
+
+v0.1.1 (24/06/15)
+ Merci pour les premiers avis. Ces premières retouches sont destinées principalement à accentuer les forces et faiblesses originalement voulues des races, et commencer à retravailler en profondeur celles qui ont été le moins appréciées. D'autres changements suivront selon les résultats de cette première màj.
+- Flambeurs
+ Les premiers retours sont de mémoire plutôt positifs sur cette race. Conformément aux propositions de certains, j'ai choisi d'insister sur les prises de risques notamment en alourdissant les conséquences des échecs, ainsi que refait complètement une unité pour donner plus d'options en PvE. En conséquence, la race devrait être plus dépendante d'un deck bien construit et de la présence du croupier. Je surveillerais avec attention les forces relatives des unités, et les possibilités de counterplay. Pour évaluer la puissance globale de la race, je pense qu'il faudra jouer pour avoir des résultats concluants, notamment pour la forte dépendance des mécaniques avec la construction du deck.
+  * Devin : pari gagné si supérieur ou égal -> pari gagné si strictement supérieur
+  * Devin : blesser une unité alliée si pari perdu -> détruire une unité alliée si pari perdu
+  * Extralucide : défausse de cartes depuis les mains -> modificateur de la force de combat
+  * Prestidigitateur : révéler trois cartes -> révéler deux cartes
+  * Prestidigitateur : pas de malus si pari échoué -> défausser une carte de la main si pari échoué
+  * Atout : placer 1 à 5 jetons -> placer 2 à 5 jetons
+
+==============
+
+Rappel : Pour l'instant, le seul truc vraiment travaillé, c'est les mécaniques des unités. Les nombres et les noms sont appelés à beaucoup changer (les premiers parce que pour l'instant tout est pété, et les seconds parce que des  robots dans de la fantasy, ça passe moyen, mais j'avais que ça en tête la première fois donc merde). C'est surtout pour donner une idée des interactions possibles et pour voir si tout est compréhensible sans explications supplémentaires. Débizous.
+
+La syntaxe utilisée pour présenter les unités est :
+
+Nom (Force/Coût/Nombre)
+Effet
+
+
+==Flambeurs==
+
+Assistant (1/1/8)
+Quand joué :
+Révélez les deux premières cartes de votre pioche. Si l'une d'elles est une unité de force 1, comptez un pari gagné, ajoutez cette carte à votre main et défaussez l'autre. Sinon, comptez le pari perdu, défaussez les deux cartes révélées ainsi que cette unité.
+
+Devin (2/2/4)
+Quand joué :
+Choisissez une unité adverse en combat, révélez la première carte de votre pioche et défaussez-la. Si le coût de la carte révélée est strictement supérieur à celle de l'unité choisie, comptez le pari gagné et détruisez cette unité. Sinon, comptez le pari perdu et détruisez une de vos unités.
+
+Extralucide (3/3/4)
+Résolution :
+Révélez les trois premières cartes de votre pioche et défaussez-les. Si vous avez révélé ainsi au moins deux cartes identiques, comptez le pari gagné et ajoutez 2 à votre force de combat. Sinon, comptez le pari perdu et retirez 2 à votre de combat.
+
+Prestidigitateur (3/3/4)
+Quand joué :
+Révélez les deux premières cartes de votre pioche, mélangez-les et disposez-les devant vous. Désignez l'une de ces cartes et annoncez un nom de carte. Si la carte désignée porte le nom annoncé, comptez le pari gagné, ajoutez cette carte à votre main et défaussez l'autre carte révélée. Sinon, comptez le pari perdu et défaussez les deux cartes révélées ainsi qu'une carte au choix de votre main.
+
+Croupier (3/5/3)
+Permanent :
+Quand vous perdez un pari, vous pouvez décider d'ignorer la perte du pari, défausser les cartes révélées et non jouées et retenter une fois le même pari.
+
+Atout (3/6/2)
+Quand joué :
+Placez 2 à 5 jetons sur cette unité. Retirez un jeton chaque fois que vous gagnez un pari.
+
+Résolution :
+S'il n'y a aucun jeton sur cette unité, ajoutez à votre force de combat le nombre de jetons que vous aviez placé sur cette carte.
