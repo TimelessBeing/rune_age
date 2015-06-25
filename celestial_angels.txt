@@ -1,31 +1,33 @@
 1 Gold Unit:
 
-Fairy (Strength: 1)
-   Resolution : Add 1 strength to this unit for each resolution effect you have already used. You may wound this unit.
+Faith Elemental (Strength: 1)
+    When played: Wound this unit.
+    Resolution : Add 1 strength to this unit for each resolution effect you have already used.
 
 2 Gold Unit:
 
-Phoenix (Strength: 2)
-   When played : Directly add a fairy from your barracks to pour hand
+Messenger (Strength: 2)
+    When played : If the opponent has 1 card or less in his hand, draw 1 card. (There must be an opponent to play this ability.)
 
 
 3 Gold Units:
 
-Cupid (Strength: 3)
-    When played : If the opponent has 1 card or less in his hand, reveal as many cards as engaged fairy in the fight. Take all fairies in you hand and discard the others
+Guardian Angel (Strength: 3)
+    Fairy units cannot be destroyed.
+    When played: Directly add a Faith Elemental unit card from your barracks to your hand.
 
-Nephilim (Strength: 3)
-   Resolution : Wound all fairies to destroy an ennemy unit.
-
+Fallen Angel (Strength: 3)
+    When played: Wound an unwounded Faith Elemental unit to destroy an opposing unit.
+    Resolution: Wound an unwounded Faith Elemental unit. (There must be an unwounded Faith Elemental unit to play this ability.)
 
 5 Gold Unit:
 
-Griffin (Strength: 4)
-    When played : Your opponent plays 2 units, then you play 2 units. Each time, only the second unit can activate his 'when played' ability.
+Archangel (Strength: 4)
+    When played : Your opponent plays 2 units, then you play 2 units.
 
 
 6 Gold Legendary Unit:
 
-Archangel (Strength: 5)
-    When played : Choose a number. Each player can discard up to that many card ans draw as many cards as discarded
+Seraphim (Strength: 5)
+    When played : Choose a number. Each player may discard up to that number of cards to draw as many.
 
