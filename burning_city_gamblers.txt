@@ -1,0 +1,32 @@
+1 Gold Unit:
+
+Jack (Strength: 1)
+    When played: Reveal the top 2 cards of your deck. If one of these cards is a 1-cost unit, you win this bet, add the card to your hand and discard the other. Otherwise, you lose the bet, discard the 2 revealed cards and this unit.
+
+
+2 Gold Unit:
+
+Ace (Strength: 2)
+    When played: Choose an opposing unit in combat, reveal the top card of your deck and discard it. If the cost of the revealed card is strictly higher than the cost of the chosen unit, you win this bet and destroy the chosen unit. Otherwise, you lose this bet and destroy one friendly unit in combat. (There must be an opposing unit to trigger this ability.)
+
+
+3 Gold Units:
+
+Queen (Strength: 3)
+    When played: Reveal the top 2 cards of your deck, shuffle them and put them face down. Choose one of these cards, guess its name then reveal it. If you guessed right, you win this bet, add this card to your hand and discard the other. Otherwise, you lose this bet, discard both cards and discard a card from your hand.
+
+Knight (Strength: 3)
+    Resolution: Reveal the top 3 cards of your deck and discard them. If you revealed at least 2 identical cards, you win this bet and add 2 strength to this unit. Otherwise, you lose this bet and remove 2 strength to this unit.
+
+
+5 Gold Unit:
+
+Dealer (Strength: 3)
+    Each time you lose a bet, you may ignore the consequences of this loss, discard the unplayed revealed cards and try this bet again.
+
+
+6 Gold Legendary Unit:
+
+Joker (Strength: 3)
+    When played: Put 2 to 5 tokens of this unit. Each time you win a bet, remove one token from this unit.
+    Resolution: If there is no token on this unit, add 1 strength to this unit per token you originally put on it.

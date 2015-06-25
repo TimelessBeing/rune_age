@@ -1,0 +1,31 @@
+1 Gold Unit:
+
+Doll (Strength: 1)
+    Resolution: Discard this unit to draw a card.
+
+
+2 Gold Unit:
+
+Teddy Bear (Strength: 2)
+    When played: Put a friendly unit in combat below your deck to destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
+
+
+3 Gold Units:
+
+Double Face (Strength: 3)
+    When played: Exchange your deck and discard pile. Shuffle your new deck and reveal your new discard pile.
+
+Jack in a Box (Strength: 3)
+    When played: Look at the top card of your deck. You may put it on top of or below your deck. Then reveal the top card of your deck. If you have no copy of this card in your discard pile, add it to your hand. Otherwise discard it.
+
+
+5 Gold Unit:
+
+Puppet (Strength: 4)
+    When played: Choose a player and a card. The player must search his deck to discard 1 to 3 copies of this card if possible, then shuffle his deck.
+
+
+6 Gold Legendary Unit:
+
+Chest (Strength: 5)
+    When played: Reveal a card from your hand. Search your deck for a copy of this card, reveal it and add it to your hand. Then shuffle your deck.

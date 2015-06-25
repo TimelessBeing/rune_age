@@ -1,0 +1,33 @@
+1 Gold Unit:
+
+Crab (Strength: 1)
+    When played: Discard an other friendly unit to draw one card.
+
+
+2 Gold Unit:
+
+Swordfish (Strength: 0)
+    If you control an unwounded Swordfish in combat, all your friendly units (except your Swordfishes) can't be destroyed by an opponent or a wound. If this unit is unwounded and is destroyed in combat, you may wound it instead.
+    Resolution: If wounded, add 2 strength to this unit.
+
+
+3 Gold Units:
+
+Siren (Strength: 2)
+    While this unit is unwounded and in combat, if an other friendly unit is discarded, wounded or destroyed in combat, you may apply the same effect to an opposing unit whose strength is lower or equal to your affected unit strength. If you do so, wound this unit. (There must be an opposing unit to trigger this ability.)
+
+Triton (Strength: 3)
+    While this unit is in combat, add 1 strength to all your other friendly units. This effect only works until the Resolution step (excluded) and doesn't count in your total combat strength.
+    End of combat : Discard a card from your hand to return this unit to your hand.
+
+
+5 Gold Unit:
+
+Petrified Guard (Strength: 5)
+    Action: Claim this card as a Reward with the following text : "You may discard this card during the Resolution step of a combat to add 3 strength to your total combat strength. You may only use one Petrified Guard effect per combat.".
+
+
+6 Gold Legendary Unit:
+
+Tercentenary Sage (Strength: 4)
+    When played: Destroy a friendly unit in combat to add to your hand a unit from your barracks whose cost is lower or equal to the destroyed unit strength.
