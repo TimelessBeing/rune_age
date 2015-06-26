@@ -1,0 +1,47 @@
+1 Gold Unit:
+
+Mindless Believer (Strength: 1)
+    When played: Claim 1 "Innocent Victim" card as a reward.
+
+
+2 Gold Unit:
+
+Guru (Strength: 1)
+    When played: Claim 1 "Innocent Victim" card as a reward for each participating friendly unit (including this card). Draw a card.
+
+
+3 Gold Units:
+
+Black Priest (Strength: 1)
+    When played: Destroy any number of "Innocent victim" rewards that you possess to immediately purchase and play an otherworldy unit. Each reward destroyed in this way pays for 1.
+
+Grand Guru (Strength: 1)
+    When played: Claim 3 "Innocent Victim" cards as a reward for each participating friendly unit (including this card).
+
+
+5 Gold Unit:
+
+Recruiter (Strength: 1)
+    When played: Reveal the top 3 cards of your deck. Add all revealed unit cards of strength 1 to the battle and discard the remaining cards (if any). 
+
+
+6 Gold Legendary Unit:
+
+Black Apostle (Strength: 1)
+    When played: Trigger all friendly units' "when played" abilities that allow you to claim "Innocent Victim" cards as rewards.
+
+
+Reward card:
+
+Innocent Victim:
+    Destroy this card during the End of Combat step.
+    Resolution: Destroy any number of "Innocent Victim" rewards to purchase and play 1 otherworldy unit. Each reward destroyed in this way pays for 1. Do not that unit's "when played" ability.
+
+
+Otherworldy units:
+
+Example (Strength: X, cost: X)
+    This unit cannot be purchased with Gold.
+    Destroy this unit during the "End of combat" step.
+    When played: Destroy an opposing unit.
+
