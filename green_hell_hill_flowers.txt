@@ -26,7 +26,7 @@ Sunflower (Strength: 1)
 2 Gold Unit:
 
 Thorns Brush (Strength: 2)
-    (Waterlust) When played: Wound an other friendly participating unit to destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
+    (Waterlust) When played: Wound a friendly participating "Deeprooted" to destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
     (Bloodlust) If this unit is being wounded in combat, you may destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
 
 
@@ -37,8 +37,8 @@ Deeprooted (Strength: 3)
     (Bloodlust) When this unit is wounded, each time you play a unit, you may wound it to heal this unit (that is, rotate this unit counter-clockwise to return it to its unwounded state).
 
 Venus Flytrap (Strength: 2)
-    (Waterlust) When played: Wound a friendly participating unit then reveal from the top of your deck as many cards as the number of unwounded friendly participating units minus 2. If you revealed 1 card or more, add one of these cards in your hand and discard the rest.
-    (Bloodlust) When played: Wound a friendly participating unit then reveal from the top of your deck as many cards as the number of wounded friendly participating units minus 1. If you revealed 1 card or more, add one of these cards in your hand and discard the rest.
+    (Waterlust) When played: Wound a friendly participating "Deeprooted" then reveal from the top of your deck as many cards as the number of unwounded friendly participating units minus 2. If you revealed 1 card or more, add one of these cards in your hand and discard the rest.
+    (Bloodlust) When played: Wound a friendly participating "Deeprooted" then reveal from the top of your deck as many cards as the number of wounded friendly participating units minus 1. If you revealed 1 card or more, add one of these cards in your hand and discard the rest.
 
 
 5 Gold Unit:
@@ -51,5 +51,5 @@ Black Dahlia (Strength: 4)
 6 Gold Legendary Unit:
 
 Tree of Life (Strength: 4)
-    (Waterlust) When played: Wound an other friendly participating unit to reveal the top 2 cards of your deck. For each unit revealed this way, you may add it to your hand if there is unwounded copy of this card in combat. Discard all other revealed cards.
-    (Bloodlust) When played: Wound an other friendly participating unit to reveal the top 2 cards of your deck. For each unit revealed this way, you may add it to your hand if there is wounded copy of this card in combat. Discard all other revealed cards.
+    (Waterlust) When played: Wound a friendly participating "Deeprooted" to reveal the top 2 cards of your deck. For each unit revealed this way, you may add it to your hand if there is unwounded copy of this card in combat. Discard all other revealed cards.
+    (Bloodlust) When played: Wound a friendly participating "Deeprooted" to reveal the top 2 cards of your deck. For each unit revealed this way, you may add it to your hand if there is wounded copy of this card in combat. Discard all other revealed cards.
