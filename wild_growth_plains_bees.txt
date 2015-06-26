@@ -1,31 +1,31 @@
 1 Gold Unit:
 
 Forager Bee (Strength: 1)
-    When played: Look at the top card of your deck. If it is a Forager Bee, you may discard it.
+    When played: Look at the top card of your deck. If it is a "Forager Bee", you may discard it.
 
 
 2 Gold Unit:
 
 Male Bee (Strength: 2)
-    Resolution: Destroy a friendly Forager Bee in combat to add 2 Strength to this unit.
+    Resolution: Destroy a friendly "Forager Bee" in combat to add 2 Strength to this unit.
 
 
 3 Gold Units:
 
 Guard Bee (Strength: 3)
-    When played: Destroy an opposing unit, then put a Forager Bee from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks. (There must be an opposing unit to trigger this ability.)
+    When played: Destroy an opposing unit, then put a "Forager Bee" from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks. (There must be an opposing unit to trigger this ability.)
 
 Worker Bee (Strength: 3)
-    When played: Draw a card, then put a Forager Bee from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks.
+    When played: Draw a card, then put a "Forager Bee" from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks.
 
 
 5 Gold Unit:
 
 Nurse Bee (Strength: 4)
-    Resolution: Add 1 Strength to each other friendly units, then put a Forager Bee from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks.
+    Resolution: Add 1 Strength to each other friendly units, then put a "Forager Bee" from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks.
 
 
 6 Gold Legendary Unit:
 
 Queen Bee (Strength: 4)
-    Resolution: Reveal the top 3 cards of your deck. Among these cards, destroy any number of Forager Bees and discard the other cards. Add 1 Strength to this unit per card discarded this way.
+    Resolution: Reveal the top 3 cards of your deck. Among these cards, destroy any number of "Forager Bees" and discard the other cards. Add 1 Strength to this unit for each card discarded this way.

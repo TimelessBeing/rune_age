@@ -7,7 +7,7 @@ Crab (Strength: 1)
 2 Gold Unit:
 
 Swordfish (Strength: 0)
-    If you control an unwounded Swordfish in combat, all your friendly units (except your Swordfishes) can't be destroyed by an opponent or a wound. If this unit is unwounded and is destroyed in combat, you may wound it instead.
+    If you control an unwounded "Swordfish" in combat, all your friendly units (except your "Swordfishes") can't be destroyed by an opponent or a wound. If this unit is unwounded and would be destroyed in combat, you may wound it instead.
     Resolution: If wounded, add 2 strength to this unit.
 
 
@@ -24,7 +24,7 @@ Triton (Strength: 3)
 5 Gold Unit:
 
 Petrified Guard (Strength: 5)
-    Action: Claim this card as a Reward with the following text : "You may discard this card during the Resolution step of a combat to add 3 strength to your total combat strength. You may only use one Petrified Guard effect per combat.".
+    Action: Claim this card as a Reward with the following text : "You may discard this card during the Resolution step of a combat to add 3 strength to your total combat strength. You may only use one "Petrified Guard" effect per combat.".
 
 
 6 Gold Legendary Unit:

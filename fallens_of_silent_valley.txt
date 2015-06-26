@@ -22,11 +22,11 @@ Lost soul (Strength: 3)
 5 Gold Unit:
 
 Wraith (Strength: 4)
-    When played: Discard any unit in combat (except a Forest Guardian). If you discarded a friendly unit, look at the top 3 cards of your deck. Then discard any number of these cards and put back the rest on top of your deck in any order.
+    When played: Discard any unit in combat (except a Forest Guardian). If "Wraith" discards a friendly unit, look at the top 3 cards of your deck. Then discard any number of these cards and put back the rest on top of your deck in any order.
 
 
 6 Gold Legendary Unit:
 
 Revenants Army (Strength: 3)
-    Every time a card is discarded during your turn, you can instead exclude it from play. When this unit is discarded or destroyed, return all cards excluded by this unit to the discard pile of their respective owners.
-    Resolution: Add 1 strength to this unit per card excluded by this unit.
+    Every time a card would be discarded by an ability of a friendly unit, you can instead exclude it from play. When this unit is discarded or destroyed, return all cards excluded by this unit to the discard pile of their respective owners.
+    Resolution: Add 1 strength to this unit for each card excluded by this unit.
