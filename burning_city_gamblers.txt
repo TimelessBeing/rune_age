@@ -1,13 +1,13 @@
 1 Gold Unit:
 
 Jack (Strength: 1)
-    When played: Reveal the top 2 cards of your deck. If one of these cards is a 1-cost unit, you win this bet, add the card to your hand and discard the other. Otherwise, you lose the bet, discard the 2 revealed cards and this unit.
+    When played: Reveal the top 2 cards of your deck. If one of these cards is a 1 Gold unit, you win this bet, add the card to your hand and discard the other. Otherwise, you lose the bet, discard the 2 revealed cards and this unit.
 
 
 2 Gold Unit:
 
 Ace (Strength: 2)
-    When played: Choose an opposing unit in combat, reveal the top card of your deck and discard it. If the cost of the revealed card is strictly higher than the cost of the chosen unit, you win this bet and destroy the chosen unit. Otherwise, you lose this bet and destroy one friendly unit in combat. (There must be an opposing unit to trigger this ability.)
+    When played: Choose a participating opposing unit, reveal the top card of your deck and discard it. If the cost of the revealed card is strictly higher than the cost of the chosen unit, you win this bet and destroy the chosen unit. Otherwise, you lose this bet and destroy one participating friendly unit. (There must be an opposing unit to trigger this ability.)
 
 
 3 Gold Units:
@@ -22,7 +22,7 @@ King (Strength: 3)
 5 Gold Unit:
 
 Dealer (Strength: 3)
-    Each time you lose a bet, you may ignore the consequences of this loss, discard the unplayed revealed cards and try this bet again.
+    Each time you lose a bet, you may ignore the consequences of this loss, discard the unplayed revealed cards and try this bet again once.
 
 
 6 Gold Legendary Unit:

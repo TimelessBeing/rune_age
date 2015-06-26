@@ -1,19 +1,19 @@
 1 Gold Unit:
 
 Crab (Strength: 1)
-    When played: Discard an other friendly unit to draw one card.
+    When played: Discard an other participating friendly unit to draw one card.
 
 
 2 Gold Unit:
 
 Swordfish (Strength: 0)
     If you control an unwounded "Swordfish" in combat, all your friendly units (except your "Swordfishes") can't be destroyed by an opponent or a wound. If this unit is unwounded and would be destroyed in combat, you may wound it instead.
-    Resolution: If wounded, add 2 strength to this unit.
+    While wounded, add 2 strength to this unit.
 
 
 3 Gold Units:
 
-Siren (Strength: 2)
+Mermaid (Strength: 2)
     While this unit is unwounded and in combat, if an other friendly unit is discarded, wounded or destroyed in combat, you may apply the same effect to an opposing unit whose strength is lower or equal to your affected unit strength. If you do so, wound this unit. (There must be an opposing unit to trigger this ability.)
 
 Triton (Strength: 3)
@@ -30,4 +30,4 @@ Petrified Guard (Strength: 5)
 6 Gold Legendary Unit:
 
 Tercentenary Sage (Strength: 4)
-    When played: Destroy a friendly unit in combat to add to your hand a unit from your barracks whose cost is lower or equal to the destroyed unit strength.
+    When played: Destroy a participating friendly unitto add to your hand a unit from your barracks whose cost is lower or equal to the destroyed unit strength.

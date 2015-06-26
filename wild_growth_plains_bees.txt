@@ -7,7 +7,7 @@ Forager Bee (Strength: 1)
 2 Gold Unit:
 
 Male Bee (Strength: 2)
-    Resolution: Destroy a friendly "Forager Bee" in combat to add 2 Strength to this unit.
+    Resolution: Destroy a friendly participating "Forager Bee"to add 2 Strength to this unit.
 
 
 3 Gold Units:

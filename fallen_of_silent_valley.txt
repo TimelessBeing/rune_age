@@ -1,0 +1,37 @@
+1 Gold Unit:
+
+Haunter (Strength: 1)
+    If this unit is discarded in combat before or during the Resolution step, you may instead claim this card as a Reward with the following text : "During the Resolution step, add 1 strength to a participating friendly unit.". Discard this card during the next End of Combat step.
+    Resolution: Discard an other participating friendly unit to add 1 strength to this unit.
+
+
+2 Gold Unit:
+
+Faceless (Strength: 2)
+    If this unit is discarded in combat before or during the Resolution step, you may draw a card immediately after resolving all other ongoing abilities.
+    When played: Discard a participating friendly unit to draw a card.
+
+
+3 Gold Units:
+
+Poltergeist (Strength: 3)
+    If this unit is discarded in combat before or during the Resolution step, you may immediately destroy an opposing unit.
+    When played: Discard a participating friendly unit to destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
+
+Lost soul (Strength: 3)
+    If this unit is discarded in combat before or during the Resolution step, you may immediately choose a player. The player draw a card, then discard a card at random.
+    When played: Choose a player. The player draw a card, then discard a card at random.
+
+
+5 Gold Unit:
+
+Wraith (Strength: 4)
+    If this unit is discarded in combat before or during the Resolution step, you may look at the top 3 cards of your deck, then discard any number of these cards and put back the rest on top of your deck in any order.
+    When played: Discard any participating friendly/opposing unit that can be immediately destroyed. If "Wraith" discards a friendly unit, look at the top 3 cards of your deck, then discard any number of these cards and put back the rest on top of your deck in any order.
+
+
+6 Gold Legendary Unit:
+
+Revenants Army (Strength: 3)
+    Every time a card would be discarded by an ability of a friendly unit, you can instead exclude it from play. When this unit is discarded or destroyed, return all cards excluded by this unit to the discard pile of their respective owners.
+    Resolution: Add 1 strength to this unit for each card excluded by this unit.

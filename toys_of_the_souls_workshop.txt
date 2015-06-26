@@ -7,12 +7,12 @@ Doll (Strength: 1)
 2 Gold Unit:
 
 Teddy Bear (Strength: 2)
-    When played: Put a friendly unit in combat below your deck to destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
+    When played: Put a participating friendly unit below your deck to destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
 
 
 3 Gold Units:
 
-Double Face (Strength: 3)
+Two Face (Strength: 3)
     When played: Exchange your deck and discard pile. Shuffle your new deck and reveal your new discard pile.
 
 Jack in a Box (Strength: 3)
