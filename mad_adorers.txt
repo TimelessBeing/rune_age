@@ -35,13 +35,13 @@ Black Apostle (Strength: 1)
 Reward card:
 
 Innocent Victim:
-    Destroy this card during the End of Combat step.
+    Destroy this card at the end of the turn.
     Resolution: Destroy any number of "Innocent Victim" rewards to purchase and play 1 otherworldy unit. Each reward destroyed in this way pays for 1. Do not that unit's "when played" ability.
 
 
-Otherworldy units:
+Otherworldy units (1 unit card for each):
 
-Minor monstrosity (Strength: 1, cost: 2)
+Minor monstrosity (Strength: 1, cost: 3)
     This unit cannot be purchased with Gold.
     Destroy this unit during the "End of combat" step.
     When played: Destroy an opposing unit.
