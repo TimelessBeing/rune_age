@@ -22,11 +22,14 @@ King (Strength: 3)
 5 Gold Unit:
 
 Dealer (Strength: 3)
-    Each time you lose a bet, you may ignore the consequences of this loss, discard the unplayed revealed cards and try this bet again once.
+    If this unit is unwounded and would be destroyed, you may wound it instead.
+    Each time you lose a bet for the first time, you may ignore the consequences of this loss, discard the unplayed revealed cards and try this bet again once for each participating friendly "Dealer".
+    End of combat: Discard this unit.
 
 
 6 Gold Legendary Unit:
 
 Joker (Strength: 3)
+    This unit cannot be destroyed or wounded.
     When played: Put 2 to 5 tokens of this unit. Each time you win a bet, remove one token from this unit.
     Resolution: If there is no token on this unit, add 1 strength to this unit for each token you originally put on it.

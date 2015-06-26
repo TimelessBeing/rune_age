@@ -13,16 +13,16 @@ Male Bee (Strength: 2)
 3 Gold Units:
 
 Guard Bee (Strength: 3)
-    When played: Destroy an opposing unit, then put a "Forager Bee" from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks. (There must be an opposing unit to trigger this ability.)
+    When played: Destroy an opposing unit, then put a "Forager Bee" from your barracks on top of your deck. (You cannot trigger this ability if you do not have any Forager Bee in your barracks. There must be an opposing unit to trigger this ability.)
 
 Worker Bee (Strength: 3)
-    When played: Draw a card, then put a "Forager Bee" from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks.
+    When played: Draw a card, then put a "Forager Bee" from your barracks on top of your deck. (You cannot trigger this ability if you do not have any Forager Bee in your barracks.)
 
 
 5 Gold Unit:
 
 Nurse Bee (Strength: 4)
-    Resolution: Add 1 Strength to each other friendly units, then put a "Forager Bee" from your barracks on top of your deck. You can't trigger this ability if you don't have any Forager Bee in your barracks.
+    Resolution: Add 1 Strength to each other friendly units, then put a "Forager Bee" from your barracks on top of your deck. (You cannot trigger this ability if you do not have any Forager Bee in your barracks.)
 
 
 6 Gold Legendary Unit:

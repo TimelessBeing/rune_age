@@ -7,7 +7,7 @@ Crab (Strength: 1)
 2 Gold Unit:
 
 Swordfish (Strength: 0)
-    If you control an unwounded "Swordfish" in combat, all your friendly units (except your "Swordfishes") can't be destroyed by an opponent or a wound. If this unit is unwounded and would be destroyed in combat, you may wound it instead.
+    If you control an unwounded "Swordfish" in combat, all your friendly units (except your "Swordfishes") cannot be destroyed by an opponent or a wound. If this unit is unwounded and would be destroyed in combat, you may wound it instead.
     While wounded, add 2 strength to this unit.
 
 
@@ -30,4 +30,4 @@ Petrified Guard (Strength: 5)
 6 Gold Legendary Unit:
 
 Tercentenary Sage (Strength: 4)
-    When played: Destroy a participating friendly unitto add to your hand a unit from your barracks whose cost is lower or equal to the destroyed unit strength.
+    When played: Destroy a participating friendly unit to add to your hand a unit from your barracks whose cost is lower or equal to the destroyed unit strength.
