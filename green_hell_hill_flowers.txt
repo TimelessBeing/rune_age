@@ -1,0 +1,55 @@
+This race comes with a unique reward card with a side named "Waterlust" and a side named "Bloodlust", and the following texts:
+
+"Waterlust" side:
+    At the start of the game, the Flower player claim this card as a reward with either side up.
+    This card cannot be destroyed or discarded.
+    The Flower units may only trigger its abilities with the "Waterlust" keyword.
+    The abilities with the "Bloodlust" keyword cannot be triggered.
+    Start of Event Phase: You may flip this card to reveal the "Bloodlust" side.
+
+"Bloodlust" side:
+    At the start of the game, the Flower player claim this card as a reward with either side up.
+    This card cannot be destroyed or discarded.
+    The Flower units may only trigger its abilities with the "Bloodlust" keyword.
+    The abilities with the "Waterlust" keyword cannot be triggered.
+    Start of Event Phase: You may flip this card to reveal the "Waterlust" side.
+
+
+1 Gold Unit:
+
+Sunflower (Strength: 1)
+    (Waterlust) When played: Heal a wounded friendly participating unit (that is, rotate the unit counter-clockwise to return it to its unwounded state).
+    (Bloodlust) When played: Wound a friendly participating unit.
+    (Bloodlust) End of Combat: Discard a wounded friendly participating unit.
+
+
+2 Gold Unit:
+
+Thorns Brush (Strength: 2)
+    (Waterlust) When played: Wound an other friendly participating unit to destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
+    (Bloodlust) If this unit is being wounded in combat, you may destroy an opposing unit. (There must be an opposing unit to trigger this ability.)
+
+
+3 Gold Units:
+
+Deeprooted (Strength: 3)
+    (Waterlust) When this unit is wounded, each time you play a unit, you may discard it (after eventually triggering its When Played ability) to heal this unit (that is rotate this unit counter-clockwise to return it to its unwounded state).
+    (Bloodlust) When this unit is wounded, each time you play a unit, you may wound it to heal this unit (that is, rotate this unit counter-clockwise to return it to its unwounded state).
+
+Venus Flytrap (Strength: 2)
+    (Waterlust) When played: Wound a friendly participating unit then reveal from the top of your deck as many cards as the number of unwounded friendly participating units minus 2. If you revealed 1 card or more, add one of these cards in your hand and discard the rest.
+    (Bloodlust) When played: Wound a friendly participating unit then reveal from the top of your deck as many cards as the number of wounded friendly participating units minus 1. If you revealed 1 card or more, add one of these cards in your hand and discard the rest.
+
+
+5 Gold Unit:
+
+Black Dahlia (Strength: 4)
+    (Waterlust) Resolution: If there is an unwounded friendly participating "Deeprooted", add 1 Strength to this unit for each other unwounded friendly participating unit.
+    (Bloodlust) Resolution: If there is an unwounded friendly participating "Deeprooted", add 1 Strength to this unit for each other wounded friendly participating unit plus 1 Strength.
+
+
+6 Gold Legendary Unit:
+
+Tree of Life (Strength: 4)
+    (Waterlust) When played: Wound an other friendly participating unit to reveal the top 2 cards of your deck. For each unit revealed this way, you may add it to your hand if there is unwounded copy of this card in combat. Discard all other revealed cards.
+    (Bloodlust) When played: Wound an other friendly participating unit to reveal the top 2 cards of your deck. For each unit revealed this way, you may add it to your hand if there is wounded copy of this card in combat. Discard all other revealed cards.
