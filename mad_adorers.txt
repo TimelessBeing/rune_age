@@ -7,7 +7,8 @@ Mindless Believer (Strength: 1)
 2 Gold Unit:
 
 Guru (Strength: 1)
-    When played: Claim 1 "Innocent Victim" card as a reward for each participating friendly unit (including this card). Draw a card.
+    When played: Claim 1 "Innocent Victim" card as a reward for each participating friendly unit (including this card).
+    When played: Draw a card.
 
 
 3 Gold Units:
@@ -40,7 +41,7 @@ Innocent Victim:
 
 Otherworldy units:
 
-Example (Strength: X, cost: X)
+Minor monstrosity (Strength: 1, cost: 2)
     This unit cannot be purchased with Gold.
     Destroy this unit during the "End of combat" step.
     When played: Destroy an opposing unit.
