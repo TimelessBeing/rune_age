@@ -32,7 +32,7 @@ Thorns Brush (Strength: 2)
 3 Gold Units:
 
 Deeprooted (Strength: 3)
-    (Waterlust) When this unit is wounded, each time you play a unit, you may discard it (after eventually triggering its When Played ability) to heal this unit (that is rotate this unit counter-clockwise to return it to its unwounded state).
+    (Waterlust) When this unit is wounded, each time you play a unit with a When Played ability without triggering it, you may heal this unit (that is rotate this unit counter-clockwise to return it to its unwounded state).
     (Bloodlust) When this unit is wounded, each time you play a unit, you may wound it to heal this unit (that is, rotate this unit counter-clockwise to return it to its unwounded state).
     (Bloodlust) End of Combat: If this unit is unwounded, discard a wounded friendly participating unit.
 
