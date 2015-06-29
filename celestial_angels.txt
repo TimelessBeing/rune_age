@@ -6,13 +6,13 @@ Fairy (Strength: 1)
 2 Gold Unit:
 
 Phoenix (Strength: 2)
-   When played : Directly add a fairy from your barracks to pour hand
+   When played : Directly add a fairy from your barracks to your hand
 
 
 3 Gold Units:
 
 Cupid (Strength: 3)
-    When played : If the opponent has 1 card or less in his hand, reveal as many cards as engaged fairy in the fight. Take all fairies in you hand and discard the others
+    When played : If the opponent has 1 card or less in his hand, reveal as many cards as engaged fairies in the fight. Take all fairies in your hand and discard the others cards
 
 Nephilim (Strength: 3)
    Resolution : Wound all fairies to destroy an ennemy unit.
