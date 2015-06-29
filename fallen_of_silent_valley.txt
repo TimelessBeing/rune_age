@@ -15,12 +15,12 @@ Poltergeist (Strength: 2)
 3 Gold Units:
 
 Faceless (Strength: 3)
-    If this unit is discarded in combat before or during the Resolution step, you may draw a card after resolving all other ongoing abilities.
-    When played: Discard an other participating friendly unit to draw a card.
+    If this unit is discarded in combat before or during the Resolution step, you may reveal the top card of your deck after resolving all other ongoing abilities. If you have no copy of this card in combat, add it to your hand, otherwise discard it.
+    When played: Discard an other participating friendly unit to reveal the top card of your deck. If you have no copy of this card in combat, add it to your hand, otherwise discard it.
 
 Lost soul (Strength: 3)
-    If this unit is discarded in combat before or during the Resolution step, you may immediately choose a player. The player draw a card, then discard a card at random. If you choose yourself and discard a Fallen unit, you may trigger its ability as if it was discarded in combat.
-    When played: Choose a player. The player draw a card, then discard a card at random. If you choose yourself and discard a Fallen unit, you may trigger its ability as if it was discarded in combat.
+    If this unit is discarded in combat before or during the Resolution step, you may immediately choose a player. The player draws a card, then discards a card at random. If you choose yourself and discard a Fallen unit, you may trigger its ability as if it was discarded in combat.
+    When played: Choose a player. The player draws a card, then discards a card at random. If you choose yourself and discard a Fallen unit, you may trigger its ability as if it was discarded in combat.
 
 
 5 Gold Unit:
@@ -33,5 +33,5 @@ Wraith (Strength: 4)
 6 Gold Legendary Unit:
 
 Revenants Army (Strength: 3)
-    Every time a card is discarded by an ability of a friendly unit, you can exclude it from play instead of returning it to a discard pile. When this unit is discarded or destroyed, return all cards excluded by this unit to the discard pile of their respective owners.
+    Every time a card is discarded by an ability of a friendly unit, you may exclude it from play instead of returning it to a discard pile. When this unit is discarded or destroyed, return all cards excluded by this unit to the discard pile of their respective owners.
     Resolution: Add 1 strength to this unit for each card excluded by this unit.
