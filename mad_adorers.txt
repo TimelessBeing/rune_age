@@ -29,7 +29,7 @@ Recruiter (Strength: 1)
 6 Gold Legendary Unit:
 
 Black Apostle (Strength: 1)
-    When played: Trigger all friendly units' "when played" abilities that allow you to claim "Innocent Victim" cards as rewards.
+    When played: Trigger all friendly units' "when played" abilities that allow you to directly claim "Innocent Victim" cards as rewards.
 
 
 Reward card:
