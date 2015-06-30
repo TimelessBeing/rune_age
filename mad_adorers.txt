@@ -46,5 +46,13 @@ Minor monstrosity (Strength: 1, cost: 3)
     Destroy this unit during the "End of combat" step.
     When played: Destroy an opposing unit.
 
+###
 TODO: the rest of the otherworldy units
+###
+
+Cthulhu (Strength: 666, cost: 514)
+    This unit cannot be purchased with Gold.
+    When this unit comes into play, destroy every other participating units, then all cards in all decks.
+    The world ends, and thus the game too. Regardless of the scenario, you win and every other player loses.
+    
 
