@@ -14,7 +14,7 @@ Guru (Strength: 1)
 3 Gold Units:
 
 Black Priest (Strength: 1)
-    When played: Destroy any number of "Innocent victim" rewards that you possess to immediately purchase and play an otherworldy unit. Each reward destroyed in this way pays for 1.
+    When played: Destroy any number of "Innocent victim" rewards that you possess to immediately purchase and play an otherworldy unit. Each reward destroyed in this way pays for 1. (The otherworldy unit's "when played" ability can be triggered.)
 
 Grand Guru (Strength: 1)
     When played: Claim 3 "Innocent Victim" cards as a reward for each participating friendly unit (including this card).
@@ -45,4 +45,6 @@ Minor monstrosity (Strength: 1, cost: 3)
     This unit cannot be purchased with Gold.
     Destroy this unit during the "End of combat" step.
     When played: Destroy an opposing unit.
+
+TODO: the rest of the otherworldy units
 
