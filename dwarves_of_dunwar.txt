@@ -16,7 +16,7 @@ Guardian (Strength: 3)
     If an unwounded friendly unit would be destroyed in this combat, you may wound it instead.
 
 Demolitionist (Strength: 3)
-    When played: Look at any other player's hand. You may take 1 Gold card of value 2 or less from his hand and add it to your hand or discard pile.
+    When played: Look at any other player's hand. You may take 1 Gold card of value 2 or less from his hand and add it to your hand or discard pile. If there is none in his hand, you can take a 1 Gold card from the center area instead.
 
 
 5 Gold Unit:
