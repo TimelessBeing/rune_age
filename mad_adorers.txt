@@ -36,7 +36,7 @@ Reward card:
 
 Innocent Victim:
     Destroy this card at the end of the turn.
-    Resolution: Destroy any number of "Innocent Victim" rewards to purchase and play 1 otherworldy unit. Each reward destroyed in this way pays for 1. Do not that unit's "when played" ability.
+    Resolution: Destroy any number of "Innocent Victim" rewards to purchase and play 1 otherworldy unit. Each reward destroyed in this way pays for 1. Do not trigger that unit's "when played" ability.
 
 
 Otherworldy units (1 unit card for each):
