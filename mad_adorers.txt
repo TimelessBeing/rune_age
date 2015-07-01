@@ -28,7 +28,7 @@ Grand Guru (Strength: 1)
 
 Recruiter (Strength: 1)
     At the beginning of the resolution step, discard this unit if it is unwounded, otherwise destroy it.
-    When played: Reveal the top 3 cards of your deck. Add all revealed unit cards of strength 1 to the battle and discard the remaining cards (if any). This unit cannot be destroyed or wounded as long as the units it added to the battle are not destroyed or wounded. 
+    When played: Reveal the top 3 cards of your deck. Add all revealed unit cards of strength 1 to the battle and discard the remaining cards (if any). This unit cannot be destroyed or wounded as long as the units it added to the battle are not destroyed or wounded. (Do not trigger those units' "When played" abilities.) 
 
 
 
@@ -39,52 +39,60 @@ Black Apostle (Strength: 1)
     When played: Trigger all friendly units' "when played" abilities that allow you to directly claim "Innocent Victim" cards as rewards.
 
 
-Reward card:
+Reward cards:
 
-Innocent Victim:
+Innocent Victim (destroy for 1 Soul):
     Destroy this card at the end of the turn.
-    Resolution: Destroy any number of "Innocent Victim" rewards to purchase and play 1 otherworldy unit. Each reward destroyed in this way pays for 1. Do not trigger that unit's "when played" ability.
+    You may spend this card to buy other rewards at any time.
+    Resolution: You may purchase and play 1 otherworldy unit. Do not trigger that unit's "when played" ability.
+
+Sweet Family (destroy for 5 Soul):
+    Destroy this card at the end of the turn.
+    You may spend this card to buy other rewards at any time.
+    Resolution: You may purchase and play 1 otherworldy unit. Do not trigger that unit's "when played" ability.
+
+Elementary Class (tap for 20 Soul):
+    Destroy this card at the end of the turn.
+    You may spend this card to buy other rewards at any time.
+    Resolution: You may purchase and play 1 otherworldy unit. Do not trigger that unit's "when played" ability.
+
+Peaceful Village (tap for 100 Soul):
+    Destroy this card at the end of the turn.
+    You may spend this card to buy other rewards at any time.
+    Resolution: You may purchase and play 1 otherworldy unit. Do not trigger that unit's "when played" ability.
 
 
-Otherworldy units (1 unit card for each):
+Otherworldy units (1 unit card for each, the cost are counted in souls):
 
 Minor monstrosity (Strength: 2, cost: 2)
-    This unit cannot be purchased with Gold.
-    Destroy this unit during the "End of combat" step.
+    If this unit should be discarded, destroy it instead.
     When played: Destroy an opposing unit.
 
 Temp (Strength: 3, cost: 4)
-    This unit cannot be purchased with Gold.
-    Destroy this unit during the "End of combat" step.
+    If this unit should be discarded, destroy it instead.
     When played: Destroy an opposing unit.
 
 Temp (Strength: 4, cost: 10)
-    This unit cannot be purchased with Gold.
-    Destroy this unit during the "End of combat" step.
+    If this unit should be discarded, destroy it instead.
     When played: Destroy an opposing unit.
 
 Temp (Strength: 5, cost: 30)
-    This unit cannot be purchased with Gold.
-    Destroy this unit during the "End of combat" step.
+    If this unit should be discarded, destroy it instead.
     When played: Destroy an opposing unit.
 
 Temp (Strength: 6, cost: 70)
-    This unit cannot be purchased with Gold.
-    Destroy this unit during the "End of combat" step.
+    If this unit should be discarded, destroy it instead.
     When played: Destroy an opposing unit.
 
 Temp (Strength: 7, cost: 100)
-    This unit cannot be purchased with Gold.
-    Destroy this unit during the "End of combat" step.
+    If this unit should be discarded, destroy it instead.
     When played: Destroy an opposing unit.
 
 Temp (Strength: 8, cost: 200)
-    This unit cannot be purchased with Gold.
-    Destroy this unit during the "End of combat" step.
+    If this unit should be discarded, destroy it instead.
     When played: Destroy an opposing unit.
 
 Cthulhu (Strength: 666, cost: 600)
-    This unit cannot be purchased with Gold.
     When this unit comes into play, destroy every other participating units, then all cards in all decks.
     The world ends, and thus the game too. Regardless of the scenario, you win and every other player loses.
     
