@@ -16,7 +16,7 @@ Spirit Speaker (Strength: 3)
     When played: If you have 0 cards in your hand, reveal the top 2 cards of your deck. Draw 1 revealed unit into your hand and discard the remaining card(s).
 
 Lizard Rider (Strength: 3)
-    Resolution: If you have 0 cards in your hand, destroy any number of opposing units whose combined strength is 2 or less.
+    Resolution: If you have 0 cards in your hand, destroy an opposing unit among those with the least strength.
 
 
 5 Gold Unit:
