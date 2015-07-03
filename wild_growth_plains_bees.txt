@@ -7,7 +7,7 @@ Forager Bee (Strength: 1)
 2 Gold Unit:
 
 Male Bee (Strength: 2)
-    Resolution: Destroy a friendly participating "Forager Bee" to add 2 Strength to this unit.
+    When Played: Destroy a "Forager Bee" in your hand to draw a card.
 
 
 3 Gold Units:
@@ -15,8 +15,8 @@ Male Bee (Strength: 2)
 Guard Bee (Strength: 3)
     When played: Destroy an opposing unit, then put a "Forager Bee" from your barracks on top of your deck. (You cannot trigger this ability if you do not have any Forager Bee in your barracks. There must be an opposing unit to trigger this ability.)
 
-Worker Bee (Strength: 3)
-    When played: Draw a card, then put a "Forager Bee" from your barracks on top of your deck. (You cannot trigger this ability if you do not have any Forager Bee in your barracks.)
+Worker Bee (Strength: 2)
+    When played: Reveal the top 2 cards of your deck. Draw 1 into your hand and put back on top of your deck or discard the other. Then put a "Forager Bee" from your barracks on top of your deck. (You cannot trigger this ability if you do not have any Forager Bee in your barracks.)
 
 
 5 Gold Unit:
