@@ -1,0 +1,35 @@
+1 Gold Unit: 
+
+Unskilled Apprentice (Strength: 1)
+    Destroy this unit at the beginning of the resolution step if it is wounded.
+    When played : You may wound or heal 1 friendly unit.
+
+
+2 Gold Unit: 
+
+Master of Poisons (Strength: 2)
+    When played: You may wound 2 friendly units. If you do so, you may destroy 1 participating unit (friendly or opposing).
+
+
+3 Gold Units:
+
+Forbidden Adept (Strength: 2)
+    If a friendly unit should be destroyed, you may wound two friendly units instead. 
+
+Expensive Patrician (Strength: 3)
+    When played: You may discard any number of Gold cards. If you do, you may heal as many units as their combined value and draw a card. If at least two units were healed that way, you may draw an additional card.
+
+
+5 Gold unit: 
+
+Experimental Creation (Strength: 4)
+    When the experimental creation is healed, put a marker on it.
+    Resolution: add 1 strength to this unit for each marker on it.
+
+
+6 Gold Legendart Unit: 
+
+God Appearance (Strength: 2)
+    When played: You may heal any number of units on the battlefield.
+    Resolution: add 1 strength to each unwounded friendly unit.
+
