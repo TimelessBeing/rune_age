@@ -27,7 +27,7 @@ Experimental Creation (Strength: 4)
     Resolution: add 1 strength to this unit for each marker on it.
 
 
-6 Gold Legendart Unit: 
+6 Gold Legendary Unit: 
 
 God Appearance (Strength: 2)
     When played: You may heal any number of units on the battlefield.

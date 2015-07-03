@@ -17,7 +17,7 @@ Guru (Strength: 1)
 
 Black Priest (Strength: 1)
     At the beginning of the resolution step, discard this unit if it is unwounded, otherwise destroy it.
-    When played: Destroy any number of "Innocent victim" rewards that you possess to immediately purchase and play an otherworldy unit. Each reward destroyed in this way pays for 1. (The otherworldy unit's "when played" ability can be triggered.)
+    When played: Immediately purchase 1 otherworldy unit and add it to this combat. (The otherworldy unit's "when played" ability can be triggered.)
 
 Grand Guru (Strength: 1)
     At the beginning of the resolution step, discard this unit if it is unwounded, otherwise destroy it.
@@ -45,25 +45,25 @@ Innocent Victim (destroy for 1 Soul, cost: 1 Soul):
     When you buy this card, claim it as a reward.
     Destroy this card at the end of the turn.
     You may spend this card to purchase other rewards at any time.
-    Resolution: You may purchase and play 1 otherworldy unit. Do not trigger that unit's "when played" ability.
+    Resolution: Immediately purchase 1 otherworldy unit and add it to this combat. Do not trigger that unit's "when played" ability.
 
 Sweet Family (destroy for 5 Soul, cost: 5 Soul):
     When you buy this card, claim it as a reward.
     Destroy this card at the end of the turn.
     You may spend this card to purchase other rewards at any time.
-    Resolution: You may purchase and play 1 otherworldy unit. Do not trigger that unit's "when played" ability.
+    Resolution: Immediately purchase 1 otherworldy unit and add it to this combat. Do not trigger that unit's "when played" ability.
 
 Elementary Class (destroy for 20 Soul, cost: 20 Soul):
     When you buy this card, claim it as a reward.
     Destroy this card at the end of the turn.
     You may spend this card to purchase other rewards at any time.
-    Resolution: You may purchase and play 1 otherworldy unit. Do not trigger that unit's "when played" ability.
+    Resolution: Immediately purchase 1 otherworldy unit and add it to this combat. Do not trigger that unit's "when played" ability.
 
 Peaceful Village (destroy for 100 Soul, cost: 100 Soul):
     When you buy this card, claim it as a reward.
     Destroy this card at the end of the turn.
     You may spend this card to purchase other rewards at any time.
-    Resolution: You may purchase and play 1 otherworldy unit. Do not trigger that unit's "when played" ability.
+    Resolution: Immediately purchase 1 otherworldy unit and add it to this combat. Do not trigger that unit's "when played" ability.
 
 
 Otherworldy units (1 unit card for each, the cost are counted in souls):
