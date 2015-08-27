@@ -1,7 +1,7 @@
 1 Gold Unit:
 
 Fairy (Strength: 1)
-   Resolution : Add 1 strength to this unit for each resolution effect you have already used. You may wound this unit.
+   Resolution : Add 1 strength to this unit for each resolution ability that has been triggered by you during this combat. You may wound this unit.
 
 2 Gold Unit:
 
