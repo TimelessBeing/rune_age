@@ -1,0 +1,44 @@
+New Mechanics: Phasing
+    Phased unit are considered as not participating in combat. As such, their abilities cannot be triggered and their strength are considered 0.
+    During the end of combat step, destroy all phased units.
+
+
+1 Gold Unit:
+
+Planar anomaly (Strength: 1)
+    Resolution: Destroy a Rift Crystal card to add 1 strength to this unit.
+
+
+2 Gold Unit:
+
+Rift Binder (Strength: 2)
+    When played: Exhaust a stronghold to immediately purchase 1 non-legendary unit from your barracks using only Rift Crystal cards (1 card pays for 1). Add that unit to your hand.
+
+
+3 Gold Units:
+
+Void Walker (Strength: 3)
+    When played: You may claim 3 Rift Crystal cards as rewards or destroy a Rift Crystal card to draw 1 card to your hand.
+
+Nether Knight (Strength: 3)
+    When played: Destroy a Rift Crystal card to phase a participating unit.
+
+
+5 Gold Unit:
+
+Phase Hunter (Strength: 4)
+    When played: Phase this unit to phase the next unit played by your opponent without triggering its when played ability.
+
+
+6 Gold Legendary Unit:
+
+Abysswalker (Strength: 4)
+    Resolution: Discard up to 2 phased units to add their strength to the Abysswalker.
+
+
+Reward cards:
+
+Rift Crystal
+    At the end of each player's turn, the Voidlord of the Outlands player must claim or destroy Rift Crystal cards so that he has as many as the number of strongholds he controls.
+    Resolution: Choose a phase unit. You may destroy as many Rift Crystal cards as its strength to unphase it.
+
