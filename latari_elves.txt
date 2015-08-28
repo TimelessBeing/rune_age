@@ -2,6 +2,7 @@
 
 Deepwood Archer (Strength: 1)
     When played: Refresh 1 of your cities or strongholds.
+    Resolution: Spend 1 influence to add 1 strength to this unit.
 
 
 2 Gold Unit:
