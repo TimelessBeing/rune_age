@@ -28,5 +28,5 @@ Dark Knight (Strength: 3)
 6 Gold Legendary Unit:
 
 Barrow Wyrm (Strength: 4)
-    When played: Choose 1 unit card in your discard pile and add it to your hand.
+    When played: Choose 1 unit card in your discard pile and add it to your hand. (There must be an opposing unit in combat to trigger this ability.)
 
