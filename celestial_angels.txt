@@ -1,6 +1,6 @@
 1 Gold Unit:
 
-Faith Elemental (Strength: 1)
+Believer  (Strength: 1)
     When played: Wound this unit.
     Resolution : Add 1 strength to this unit for each resolution ability that has been triggered by you during this combat.
 
@@ -13,12 +13,12 @@ Messenger (Strength: 2)
 3 Gold Units:
 
 Guardian Angel (Strength: 3)
-    Fairy units cannot be destroyed.
-    When played: Directly add a Faith Elemental unit card from your barracks to your hand.
+    Believer units cannot be destroyed.
+    When played: Directly add a Believer unit card from your barracks to your hand.
 
 Fallen Angel (Strength: 3)
-    When played: Wound an unwounded Faith Elemental unit to destroy an opposing unit.
-    Resolution: Wound an unwounded Faith Elemental unit. (There must be an unwounded Faith Elemental unit to play this ability.)
+    When played: Wound an unwounded Believer unit to destroy an opposing unit.
+    Resolution: Wound an unwounded Believer unit. (There must be an unwounded Believer unit to play this ability.)
 
 5 Gold Unit:
 
