@@ -28,5 +28,5 @@ Chaos Lord (Strength: 4)
 6 Gold Legendary Unit:
 
 Obscene (Strength: 4)
-    Resolution: Discard 1 wounded participating unit (friendly or opposing) from this combat to add 4 strength to this "Obscene" 
+    Resolution: Discard 1 wounded participating unit (friendly or opposing) from this combat to add 4 strength to this "Obscene". If "Obscene" discards a friendly unit, also add the discarded unit's strength to this unit. 
 
