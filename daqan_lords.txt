@@ -16,13 +16,13 @@ Knight (Strength: 3)
     When played: Reveal the top card of your deck. If it is a unit with strength 3 or higher, discard it. Otherwise draw it into your hand.
 
 Novice Wizard (Strength: 2)
-    When played: Discard 1 card from your hand to draw 1 card for each participating "Novice Wizard".
+    When played: Discard 1 card from your hand to draw 1 card.
 
 
 5 Gold Unit:
 
-Siege Machine (Strength: 2)
-    Resolution: Discard 1 card from your hand to add 4 strength to this unit.
+Siege Machine (Strength: 4)
+    Resolution: Discard 1 card from your hand to add 2 strength to this unit.
 
 
 6 Gold Legendary Unit:
