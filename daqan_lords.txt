@@ -13,7 +13,7 @@ Bowman (Strength: 2)
 3 Gold Units:
 
 Knight (Strength: 3)
-    When played: Reveal the top card of your deck. If it is a unit with strength 3 or higher, discard it. Otherwise draw it into your hand.
+    When played: Reveal the top 2 cards of your deck. You may return 1 to the top of your deck. Draw either all Gold cards or all units of strength 2 or lower revealed in this way into your hand and discard the rest.
 
 Novice Wizard (Strength: 2)
     When played: Discard 1 card from your hand to draw 1 card.
