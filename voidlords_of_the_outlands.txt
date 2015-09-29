@@ -28,8 +28,7 @@ Nether Knight (Strength: 3)
 5 Gold Unit:
 
 Phase Hunter (Strength: 4)
-    When played: If your number of unphased units is equal to or more than your number of phased units, phase all allied unphased units and unphase all allied phased units.
-    Else, unphase up to 3 units to add a unit whose strength is equal to the number of units unphased this way to your hand from your barracks.
+    When played: Unphase up to 3 phased units. Add an unit whose strenght equals the number of unphased units to your hand from your barracks.
 
 
 6 Gold Legendary Unit:
