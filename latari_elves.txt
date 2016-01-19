@@ -9,15 +9,16 @@ Deepwood Archer (Strength: 1)
 
 Storm Sorceress (Strength: 2)
     Action: Claim this card as a reward. (Exhaust this card to generate 2 influence.) Discard this card at the end of the turn.
+    When played: The next unit's "when played" ability (if any) costs 0 influence.
 
 
 3 Gold Units:
 
 Darnati Warrior (Strength: 3)
-    When played: Spend 1 influence to destroy 1 opposing unit.
+    When played: Spend 2 influence to destroy 1 opposing unit.
 
 Leonx Rider (Strength: 3)
-    When played: Spend 1 influence to choose any player. The player chooses and discards 1 card from his hand. If you choose yourself, you may draw 1 card before discarding.
+    When played: Spend 2 influence to choose any player. The player chooses and discards 1 card from his hand. If you choose yourself, you may draw 1 card before discarding.
 
 
 5 Gold Unit:
